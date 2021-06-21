@@ -356,6 +356,9 @@ ol li {
   line-height: 1.4;
    font-family: 'Fira Sans', sans-serif;
   font-weight: 500;
+  margin-right: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
 .level + h5 {
