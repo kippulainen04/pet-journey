@@ -333,6 +333,7 @@ p {
   height: 260px;
   border: 1px solid rgba(17, 15, 0, 0.8);
  box-shadow: 4px 4px 6px rgb(7, 15, 0);
+  text-align: center;
 }
 
 
