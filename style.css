@@ -73,7 +73,7 @@ ul {
 }
 
 #nav-link {
-  font-size: 22px;
+  font-size: 24px;
   text-decoration: none;
   color: var(--text);
   margin: 16px;
@@ -101,8 +101,7 @@ li {
     font-size: 30px;
   }
   #nav-link{
-    font-size: 16px;
-    margin: 10px;
+    font-size: 14px;
   }
   #nav-bar{
     margin-top: 9px;
