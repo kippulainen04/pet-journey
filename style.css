@@ -75,47 +75,6 @@ body {
   }
 } 
 
-/*@media only screen and (max-width: 1078px) {
-  #header, #header ul{
-    flex-direction: column;
-  }
-  #header img{
-    margin: 0 auto;
-  }
-  #header span{
-    margin: 0 auto;
-    text-align: center;
-  }
-  #header ul li{
-    margin-bottom: 10px;
-  }
-  #container{
-        padding: 50px;
-  }
-  #container .text {
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
-  }
-  #container .subscription {
-    margin: 0 auto;
-    width: 100%;
-    justify-content: center;
-    text-align: center;
-    height: auto;
-    align-items: center;
-    wrap: column wrap;
-  }
-  #container p{
-    font-size: 20px; 
-  }
-  
-  #container h5 {
-    font-size: 20px;
-  }
-}
-*/
-
 #header-img{
   width: 60px;
   height: 60px;
@@ -312,34 +271,6 @@ p {
   text-align: center;
 }
 
-.submit {
-  width: 100%;
-  heigh: auto;
-  margin-top: 10px;
-  border: 1px solid rgb(111, 37, 111);
-    outline: none;
-    text-transform: uppercase;
-    text-decoration: none;
-    cursor: pointer;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    justify-content: center;
-    width: max-content;
-    border-radius: 999px;
-    height: 40px;
-    font-weight: 600;
-    font-size: 15px;
-    padding: 0px 40px;
-    background-color: var(--head);
-    color: var(--text);
-    margin: 0 auto;
-}
-
-.submit:hover {
-  color: var(--foot);
-}
 
 .services {
   display: flex;
