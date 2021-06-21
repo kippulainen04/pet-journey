@@ -349,8 +349,6 @@ p {
   font-size: 18px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   height: auto;
   text-align: center;
   font-family: 'Fira Sans', sans-serif;
