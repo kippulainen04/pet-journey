@@ -345,7 +345,7 @@ p {
   align-items: center;
 }
 
-ol li {
+.define-ol li {
   font-size: 18px;
   display: flex;
   flex-direction: column;
