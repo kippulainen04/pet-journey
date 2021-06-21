@@ -336,7 +336,6 @@ p {
   text-align: center;
 }
 
-
 .level {
   background: rgb(170, 160, 57);
   width: 100%;
@@ -350,6 +349,8 @@ ol li {
   font-size: 18px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   height: auto;
   text-align: center;
   font-family: 'Fira Sans', sans-serif;
@@ -358,8 +359,6 @@ ol li {
    font-family: 'Fira Sans', sans-serif;
   font-weight: 500;
   margin-right: 20px;
-  justify-content: center;
-  align-items: center;
 }
 
 .level + h5 {
