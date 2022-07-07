@@ -35,7 +35,7 @@ After fulfilling the project, I acquire knowledge to:
 * Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks
 * Implement the use of adding **Images & Links** into HTML, using **`<ul>, <ol>, so on`tags** to present the content of the project
 * Implement CSS styling via class, id and element selectors using external stylesheets and inline styles and box model for HTML elements
-* Implement **Bootstrap** styling, **Google font**, **Font Awesome**, **CSS breakpoints** and **Navigation** with **Responsive web design** theory
+* Implement **Bootstrap** styling, **Mailchimp**, **Google font**, **Font Awesome**, **CSS breakpoints** and **Navigation** with **Responsive web design** theory
 * Use **Git workflow** to initialize projects, track changes, and host via remote server
 * Execute live deployment using **GitHub** Pages
 
@@ -93,6 +93,7 @@ After fulfilling the project, I acquire knowledge to:
 * [Bootstrap](https://getbootstrap.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Font Awesome](https://fontawesome.com/)
+* [Mailchimp](https://mailchimp.com/en-gb/)
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Reference Project](https://product-landing-page.freecodecamp.rocks)
 * [Pictures](https://unsplash.com/)
